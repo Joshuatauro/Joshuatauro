@@ -18,7 +18,7 @@ const aboutMe = {
   
   currentlyWorkingOn: "Building a social media site using React+Firebase",
   
-  portfolio: "https/joshuatauro.netlify.app"
+  portfolio: "https://joshuatauro.netlify.app"
   
 }
 ```
