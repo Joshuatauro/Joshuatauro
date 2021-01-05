@@ -11,12 +11,12 @@ const aboutMe = {
   
   technologies: {
     languages: ["Python", "C", "JavaScript", "HTML5", "CSS3"],
-    frameworks: ["React", "Django", "Node", "Express"],
+    frameworks: ["React", "Django", "Node", "Express", "Mongoose"],
     database: ["MYSQL", "MongoDB", "Firebase"],
     preProcessors: ["SCSS"]
   },
   
-  currentlyWorkingOn: "Building a social media site using React+Firebase",
+  currentlyWorkingOn: "Learning TypeScript!",
   
   portfolio: "https://joshuatauro.netlify.app"
   
