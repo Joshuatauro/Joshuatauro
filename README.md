@@ -11,7 +11,8 @@ const aboutMe = {
   
   technologies: {
     languages: ["Python", "C", "JavaScript", "HTML5", "CSS3"],
-    frameworks: ["React", "Django", "Node", "Express", "Mongoose"],
+    frameworks: ["React", "Django", "Node", "Express"],
+    ORMs: ["Mongoose"],
     database: ["MYSQL", "MongoDB", "Firebase"],
     preProcessors: ["SCSS"]
   },
