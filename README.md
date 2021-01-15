@@ -17,7 +17,7 @@ const aboutMe = {
     preProcessors: ["SCSS"]
   },
   
-  currentlyWorkingOn: "Learning TypeScript!",
+  currentlyWorkingOn: "Building a web app using PERN stack",
   
   portfolio: "https://joshuatauro.netlify.app"
   
