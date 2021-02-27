@@ -12,7 +12,7 @@ const aboutMe = {
   technologies: {
     languages: ["Python", "C", "JavaScript", "HTML5", "CSS3"],
     frameworks: ["React", "Django", "Node", "Express"],
-    ORMs: ["Mongoose"],
+    ORMs: ["Mongoose", "PG-Node"],
     database: ["MYSQL", "PostgreSQL" , "MongoDB", "Firebase"],
     preProcessors: ["SCSS"]
   },
