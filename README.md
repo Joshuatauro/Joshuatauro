@@ -17,6 +17,6 @@ const aboutMe = {
     preProcessors: ["SCSS"]
   },
   
-  currentlyWorkingOn: "Building a web app using PERN stack" 
+  currentlyWorkingOn: "Building a ecommerce site using MERN" 
 }
 ```
