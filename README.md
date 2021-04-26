@@ -3,7 +3,6 @@
 ```javascript
 const aboutMe = {
   name: "Joshua Tauro",
-  proNouns: "He" || "Him",
   title: "Front-end Developer",
   age: 17,
   nationality: "Indian",
